@@ -16,7 +16,7 @@ module.exports = (_ => {
 	const config = {
 		"info": {
 			"name": "ThemeRepo (Unrekt)",
-			"author": "DevilBro (Hijacked by Slips)",
+			"author": "DevilBro (Hijacked by Slips",
 			"version": "2.2.6",
 			"description": "Allows you to download all Themes from BD's Website within Lightcord"
 		}
