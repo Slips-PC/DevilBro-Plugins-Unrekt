@@ -3,3 +3,4 @@ DevilBro's BetterDiscord Plugins, Unrekt for use in Lightcord. All code in this 
 
 # Current Known Issues
 - Search functions in PluginRepo and ThemeRepo are nonfunctional and will crash upon use.
+
